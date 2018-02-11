@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">viewlibrary</string>
+
+    <!--sidelayout-->
+    <string name="menu_settings">set1</string>
+
+</resources>
