@@ -8,6 +8,5 @@
 /captures
 .externalNativeBuild
 /.idea
-/gradle
 /app/src/test
 /app/src/androidTest
